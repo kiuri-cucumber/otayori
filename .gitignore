@@ -1,0 +1,6 @@
+# 家族の実物の資料とデータベースは、リポジトリに入れない
+data/
+tests/fixtures/private/
+*.db
+__pycache__/
+.venv/
